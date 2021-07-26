@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197978995385",
+    "project_id": "food-a702e",
+    "storage_bucket": "food-a702e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197978995385:android:939431f67e7580718eb968",
+        "android_client_info": {
+          "package_name": "com.example.training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197978995385-7loni1rahgt1d0vuf1t0ot7cprjqda6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlAca--vpGFW5tvya9IKJDUqkc599dd0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197978995385-7loni1rahgt1d0vuf1t0ot7cprjqda6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
